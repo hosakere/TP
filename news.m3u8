@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png",TV9 Karnataka
+
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=jdJoOhqCipA
+
+#EXTINF:-1 tvg-logo="https://btvkannada.com/wp-content/uploads/2023/05/BTV_KANNADA.png",BTV
+https://vidcdn.vidgyor.com/btv-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png",Public TV
+https://livestream.knowtable.xyz:5443/show/streams/Publictv_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.asianetnews.com/v1/images/asianet_suvarna_news.png",Suvarna News
+https://live.shahidahmed542k.workers.dev/live/pN8Bo4CnAxI.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png",News18 Kannada
+https://live.shahidahmed542k.workers.dev/live/In97b1x8jEo.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_First.png",News First
+https://live.shahidahmed542k.workers.dev/live/9f3pSQ5Oio8.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.republicworld.com/republic-prod/logo/169511698365096eb74a4f5.jpg",Republic Kannada
+https://live.shahidahmed542k.workers.dev/live/y_704-AtGWg.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fblr20-1.fna.fbcdn.net/v/t39.30808-1/352566873_217847561058483_6696839810948755853_n.jpg?stp=c0.5000x0.5000f_dst-jpg_e15_p144x144_q60_tt1_u&efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV91cmwifQ&_nc_cid=0&_nc_ad=z-m&_nc_rml=0&_nc_ht=scontent.fblr20-1.fna&_nc_cat=1&_nc_ohc=wr6tpyPY0QwAX9U0DCm&ccb=1-7&_nc_sid=5f2048&oh=00_AfDQ3wcHt3c3KcNOmOD5tIs7p9lv_rWNyn2ldoH0ANcqVQ&oe=65F04E36",TV5 Kannada
+https://live.shahidahmed542k.workers.dev/live/1wonOsFKru8.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://powertvnews.in/wp-content/uploads/2024/01/logo_ENGLISH_TV.png",Power TV
+https://powertvkannada.com/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada_News.png",Zee Kannada News
+https://live.shahidahmed542k.workers.dev/live/nwa9evaUaeE.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vistara_News.png",Vistara News
+https://live.shahidahmed542k.workers.dev/live/V13iZ5T9K4k.m3u8
+
+
+
+
+
+
